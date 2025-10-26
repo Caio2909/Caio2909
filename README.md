@@ -17,7 +17,7 @@ Aqui estão algumas das tecnologias que uso ou que estou aprendendo:
 | Python               | Django                         |
 | Java                 | Spring Boot                    |
 | JavaScript / TypeScript | React / Node.js             |
-| SQL / Bancos de Dados | Git / GitHub / GitHub Actions |
+| SQL / Bancos de Dados | MySQL/SQLite |
 | HTML / CSS            | Docker / Containers           |
 
 ---

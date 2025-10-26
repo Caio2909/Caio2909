@@ -5,7 +5,7 @@
 
 ## 🚀 Sobre mim  
 Sou apaixonado por programação, estou sempre aprendendo novas tecnologias e buscando aplicar meus conhecimentos em projetos práticos.  
-Gosto de trabalhar com Java, explorar frameworks, e construir soluções que façam sentido.
+Gosto de trabalhar com Python, explorar frameworks, e construir soluções que façam sentido.
 
 ---
 
